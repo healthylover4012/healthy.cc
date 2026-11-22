@@ -1,0 +1,56 @@
+11/22/2026 12:22 PM
+
+
+UI
+
+[+] New Obsidian menu with themes, saved configs, a keybind menu, and a full Unload that removes everything
+[+] Game selector: Real Da Hood, Das Hood, or Universal. Each mode only shows features that work there
+[+] Keybinds support Toggle or Hold, and mouse buttons work
+[+] Every feature has its own "Mobile button" toggle for a draggable on-screen button, plus an optional menu button
+[+] Number settings are text boxes instead of sliders
+[-] Old hand-built menu, auto-showing mobile buttons, and the animation and texture popup windows
+
+Targeting
+
+[+] Closest Part hit part for Cam Lock and Silent Aim
+[+] NPC detection anywhere in the game, with an "NPCs" switch on each feature that can target them
+[+] FOV circles for Silent Aim, Trigger Bot and Cam Lock, each with its own color and show toggle
+[+] Cam Lock FOV radius
+[+] Trigger Bot FOV mode, alongside the old crosshair mode
+[+] Team Check in Universal, and Dead Check in place of Knock Check
+[+] Target Line from your mouse to the locked target
+[~] Silent Aim prediction now starts at 0
+[~] Knock Check releases a locked target when they're knocked or dead
+[~] Cam Lock keeps aiming at the last spot when its target dies
+[~] Cam Lock keeps shotgun spread when it locks
+[~] Wall Check now works
+
+Combat
+
+[+] Wallbang
+[+] Damage Modifier, per weapon class, with full/half/min modes
+[+] Range Enhancer, plus Infinite Range in Das Hood
+[~] Spread Changer now works, and is Real Da Hood only
+[-] Rapid Fire in Real Da Hood (Das Hood only now)
+[-] Knife Check in Universal
+
+Movement
+
+[+] Jump Power and No Jump Cooldown
+[+] Panic Ground, with an auto-trigger at low health
+[+] Wall Stick (Spider-Man)
+[+] Anti Trip (Da Hood modes)
+[~] Walk Speed reworked so it holds and restores properly
+
+Visuals and character
+
+[+] ESP boxes (corner or full), distance, custom fonts, and NPC ESP
+[+] Animation Changer by typing preset names
+[+] Texture Changer in the menu, with restore
+[+] Korblox leg and Body Size (Skinny, Normal, Fat)
+
+Inventory and misc
+
+[~] Skin Changer and Auto Sort now ignore capitals
+[+] Mod Detector with a notification-time setting and a "kick me" option
+[~] Credits tab shows the game you're in
